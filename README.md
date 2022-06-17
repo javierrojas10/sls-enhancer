@@ -2,7 +2,6 @@
 Bash Script to enhance the Serverless Framework deploy function
 
 ## Demo
-The program is fast I just type slowly so you can read and watch the full demo.
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/46604653/174323658-42938e05-257a-43db-9814-97298d8e2d3b.gif)
 
 ## Reqs
